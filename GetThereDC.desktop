@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=GetThereDC
+Exec=/usr/bin/qmlscene $@ /usr/share/GetThereDC/GetThereDC.qml
+Icon=GetThereDC_256.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

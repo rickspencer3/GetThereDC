@@ -1,0 +1,15 @@
+{
+    "name": "com.ubuntu.developer.rick-rickspencer3.gettheredc",
+    "description": "Find transportation options near you in Washington DC. Provides unnoficial support for Bike Share, Metro buses, Metro trains, and Car2Go.",
+    "framework": "ubuntu-sdk-14.04-qml-dev1",
+    "architecture": "all",
+    "title": "GetThereDC",
+    "hooks": {
+        "GetThereDC": {
+            "apparmor": "GetThereDC.json",
+            "desktop": "GetThereDC.desktop"
+        }
+    },
+    "version": "0.7",
+    "maintainer": "Rick Spencer <rick.spencer@canonical.com>"
+}
